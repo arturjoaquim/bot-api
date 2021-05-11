@@ -1,5 +1,0 @@
-.mypy_cache
-.vscode
-__pycache__
-database.sqlite3
-venv
