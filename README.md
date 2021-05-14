@@ -1,16 +1,15 @@
-# bot-api
-Esta API é de um bot de mensagens, ela segue a estrutura REST e foi feita para usar o chat-bot em diversas outras aplicações.
+# 🤖 bot-api
+Esta é uma simples API RESTFull e foi criada para ser o servidor de um chatbot.
 
-## Tecnologias usadas
+## 🚀 Tecnologias usadas
 - Python 3.6.8;
 - Flask.
 
-## Funções
-- Se comunicar com o bot de mensagens;
-- Tornar o chat-bot uma aplicação independente;
-- Fazer com que o bot, seja reutilizável em diversas aplicações.
+## ⚙️ Funções
+- Receber requisições com mensagens e devolver suas respostas;
+- Fazer com que o bot, possa ser utilizado por diversos clientes diferentes.
 
-## Rodando a aplicação
+## 🏁 Rodando a aplicação
 ```
 # Clone o repositório 
 git clone https://github.com/arturjoaquim/bot-api
@@ -26,8 +25,9 @@ pip install -r requeriments.txt
 
 # Execute o app.py
 ```
+## ✏️ Contribuições
+Sinta-se a vontade para constribuir com o projeto, fazendo *Forks* ou *Pull Requests*, ficarei feliz em analisa-los. Caso tenha quaisquer dúvidas ou sugestões sobre o projeto por favor mande no meu e-mail: artur.joaquimbr@gmail.com.
 
-## Autores
-Feito por [Artur Joaquim](https://github.com/arturjoaquim)
+## 📄 Licença
 
-Obrigado pela visita
+Este repositório esta licenciado pela Licença MIT, para mais informações acesse o arquivo [LICENSE.md](https://github.com/arturjoaquim/bot-api/blob/master/LICENSE).
