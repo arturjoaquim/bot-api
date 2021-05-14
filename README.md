@@ -21,12 +21,12 @@ python -m venv venv
 .venv\Scripts\activate.ps1 # Ativando seu ambiente no power shell
 
 # Instale as dependências
-pip install -r requeriments.txt
+pip install -r requirements.txt
 
 # Execute o app.py
 ```
 ## ✏️ Contribuições
-Sinta-se a vontade para constribuir com o projeto, fazendo *Forks* ou *Pull Requests*, ficarei feliz em analisa-los. Caso tenha quaisquer dúvidas ou sugestões sobre o projeto por favor mande no meu e-mail: artur.joaquimbr@gmail.com.
+Sinta-se a vontade para contribuir com o projeto, fazendo *Forks* ou *Pull Requests*, ficarei feliz em analisa-los. Caso tenha quaisquer dúvidas ou sugestões sobre o projeto por favor mande no meu e-mail: artur.joaquimbr@gmail.com.
 
 ## 📄 Licença
 
